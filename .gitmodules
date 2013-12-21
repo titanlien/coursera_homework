@@ -1,0 +1,3 @@
+[submodule "web-intelligence"]
+  path = web-intelligence
+  url = git@github.com:titanlien/coursera-web-intelligence.git
