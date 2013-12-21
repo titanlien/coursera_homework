@@ -1,3 +1,6 @@
 [submodule "web-intelligence"]
   path = web-intelligence
   url = git@github.com:titanlien/coursera-web-intelligence.git
+[submodule "bitstarter"]
+  path = startup/bitstarter
+  url = https://github.com/titanlien/bitstarter.git
