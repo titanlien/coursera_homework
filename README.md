@@ -6,14 +6,16 @@
 ---
 
 ### hardware-software
-	1. [COURSERA URL](https://class.coursera.org/hwswinterface-001/class)
-	
+1. [COURSERA URL](https://class.coursera.org/hwswinterface-001/class)
+
 ---
 
 ### startup
-	1. [COURSERA URL](https://class.coursera.org/startup-001/class)
+1. [COURSERA URL](https://class.coursera.org/startup-001/class)
 
 ---
 
 ### web-intelligence
-	1. [COURSERA URL](https://class.coursera.org/bigdata-003/class)
+1. [COURSERA URL](https://class.coursera.org/bigdata-003/class)
+
+---
