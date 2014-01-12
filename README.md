@@ -19,3 +19,8 @@
 1. [COURSERA URL](https://class.coursera.org/bigdata-003/class)
 
 ---
+
+### interactive-python
+1. [COURSERA URL](https://class.coursera.org/interactivepython-003)
+
+---
